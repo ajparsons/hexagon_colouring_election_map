@@ -10,5 +10,3 @@ Based on the [ODI Leeds hexmap of constituencies](https://odileeds.org/projects/
 [Download just timings](https://github.com/ajparsons/hexagon_colouring_election_map/raw/master/just_timings.pdf)
 
 *Might not make you feel better. Just go to bed. You’re only hurting yourself.
-
-Raw files on GitHub
